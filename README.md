@@ -85,6 +85,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🧩 LeetCode Stats
 
 <p align="center">
