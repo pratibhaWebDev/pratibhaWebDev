@@ -85,19 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratibhaWebDev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🧩 LeetCode Stats
 
 <p align="center">
