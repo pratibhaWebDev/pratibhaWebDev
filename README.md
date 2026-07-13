@@ -10,6 +10,7 @@
   <a href="https://linkedin.com/in/pratibhayadav28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pratibhacodedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pratibhaWebDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/pratibhawebdev/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center">
@@ -97,12 +98,21 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pratibhawebdev?theme=dark&font=Karma&ext=heatmap" alt="pratibhawebdev LeetCode stats" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:pratibhacodedev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pratibhayadav28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pratibhaWebDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/pratibhawebdev/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>Pronouns: She/Her</i></p>
