@@ -88,12 +88,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pratibhaWebDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratibhaWebDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratibhaWebDev&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
