@@ -101,7 +101,7 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pratibhawebdev?theme=dark&font=Karma&ext=heatmap" alt="pratibhawebdev LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/pratibhayadav28?theme=dark&font=Karma&ext=heatmap" alt="pratibhawebdev LeetCode stats" />
 </p>
 
 ---
